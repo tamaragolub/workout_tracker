@@ -1,23 +1,18 @@
 {
-  "name": "workout_tracker",
+  "name": "mongoose_populate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tamaragolub/workout_tracker.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tamaragolub/workout_tracker/issues"
-  },
-  "homepage": "https://github.com/tamaragolub/workout_tracker#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.8.1"
+    "express": "^4.16.3",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
   }
 }
