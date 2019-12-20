@@ -2,7 +2,8 @@
 
 Homework Assignment
 
-This assignment was to create an application that can be used to write, save, and delete notes. This application used an express backend and save and retrieve note data from a JSON file. 
+This assignment was to create an application that can track your workouts. A user will be able to create, view, and track daily workouts. 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -14,6 +15,7 @@ What things you need to install the software
 -GitHub
 -Visual Studio Code
 -Node
+-Heroku
 
 ## Screenshot of the display
 
@@ -37,4 +39,4 @@ See also the deployed link for this activity - [Heroku](https://cryptic-gorge-91
 
 ## Acknowledgments
 
-* Thank you to Cassidy for helping me through this assignment. 
+* Thank you to Alex for helping me through this assignment. 
